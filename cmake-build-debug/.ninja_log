@@ -1,3 +1,21 @@
 # ninja log v5
 1	284	6855729416889549	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
 289	775	6855729421731449	HatOfNames_cli.exe	f694d9d1dcc6295e
+6	606	6855810187437236	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+607	1657	6855810193219775	HatOfNames_cli.exe	f694d9d1dcc6295e
+2	142	6855853324694170	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+143	276	6855853325977635	HatOfNames_cli.exe	f694d9d1dcc6295e
+3	161	6855854337528130	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+3	151	6855854448378891	HatOfNames_cli.exe	f694d9d1dcc6295e
+3	117	6855855840858365	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+118	235	6855855841984255	HatOfNames_cli.exe	f694d9d1dcc6295e
+3	141	6855857756028811	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+142	269	6855857757285815	HatOfNames_cli.exe	f694d9d1dcc6295e
+3	135	6855864282177294	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+135	266	6855864283439177	HatOfNames_cli.exe	f694d9d1dcc6295e
+3	119	6855865448312041	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+120	278	6855865449837073	HatOfNames_cli.exe	f694d9d1dcc6295e
+4	145	6855865863832306	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+146	299	6855865865298880	HatOfNames_cli.exe	f694d9d1dcc6295e
+5	114	6855866997149087	CMakeFiles/HatOfNames_cli.dir/main.c.obj	b6718b1b81c65f7c
+115	265	6855866998613299	HatOfNames_cli.exe	f694d9d1dcc6295e
