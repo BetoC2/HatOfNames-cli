@@ -37,6 +37,9 @@ int main(int argc, char *argv[]) {
         return 0xF;
     }
 
+    printf("Ruta del archivo: %s\n",argv[1]);
+    printf("~HoN 0.1.0\n");
+
     char buffer[MAX_LINE_SIZE];
     int count = 0;
 
