@@ -83,13 +83,14 @@ int main(int argc, char *argv[]) {
 
             case 'x':
                 printf("Que le vaya bien joven\n");
+                free(lista);
                 return 0;
 
             default:
                 printf("No meta eso compa\n");
         }
     }
-
     printf("\nSe terminaron los nombres, ahuecando el ala");
+    free(lista);
     return 0;
 }
