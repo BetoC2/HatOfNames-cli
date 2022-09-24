@@ -4,14 +4,15 @@ Un programa que selecciona nombres aleatoriamente desde un archivo de texto.
 
 | Contenidos                                |
 | ----------------------------------------- |
-| [[README#Descripción\|Descripción]]       |
-| [[README#Funcionamiento\|Funcionamiento]] |
-| [[README#Precauciones\|Precauciones]]     |
+| [Descripcion](#descripción)      |
+| [Funcionamiento](#funcionamiento) |
+| [Precauciones](#precauciones)     |
 
 
 ## Descripción
-"HatOfNames-cli" es un programa realizado en C para seleccionar un nombre de forma aleatoria 
-![[img/imagen.jpg]]
+"HatOfNames-cli" es un programa realizado en C para seleccionar un nombre de forma aleatoria
+
+![Imagen](img/imagen.jpg)
 
 ## Funcionamiento
 
